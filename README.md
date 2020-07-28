@@ -4,6 +4,7 @@ I'm a front-end developer focusing on React.js.
 
 ![GitHub_top_languages](https://img.shields.io/github/languages/top/thiagolives/thiagolives)
 ![GitHub_last_commit](https://img.shields.io/github/last-commit/thiagolives/thiagolives)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagoanalyst)](https://www.linkedin.com/in/felipefialho)
 <!--
 **thiagolives/thiagolives** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
