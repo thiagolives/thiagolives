@@ -1,6 +1,8 @@
 ### Hi there! I'm Thiago Oliveira from Brazil. 
 
-I'm a front-end developer focusing on React.js. Follow me and keep update about what I am doing now. Everyday I'm learning new things. I love learning!
+I'm a front-end developer since 2018. I'm focusing on improving my javascript skills deeply. 
+Follow me to keep you updated about what I am doing now. Everyday is a new day and I'll be learning something new. 
+Here are some projects that I've done.
 
 ![GitHub_top_languages](https://img.shields.io/github/languages/top/thiagolives/thiagolives)
 ![GitHub_last_commit](https://img.shields.io/github/last-commit/thiagolives/thiagolives)
