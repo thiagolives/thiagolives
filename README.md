@@ -1,6 +1,5 @@
 ### Hi there! I'm Thiago Oliveira from Brazil. 
 
-![GitHub_languages_count](https://img.shields.io/github/languages/top/thiagolives/thiagolives)
 ![GitHub_top_languages](https://img.shields.io/github/languages/top/thiagolives/thiagolives)
 ![GitHub_last_commit](https://img.shields.io/github/last-commit/thiagolives/thiagolives)
 <!--
