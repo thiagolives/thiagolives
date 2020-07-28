@@ -1,6 +1,7 @@
 ### Hi there! I'm Thiago Oliveira from Brazil. 
 
 ![GitHub_languages_count](https://img.shields.io/github/languages/top/thiagolives/thiagolives)
+![GitHub_top_languages](https://img.shields.io/github/languages/top/thiagolives/thiagolives)
 
 <!--
 **thiagolives/thiagolives** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
